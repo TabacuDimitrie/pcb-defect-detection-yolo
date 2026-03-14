@@ -12,6 +12,7 @@ This project implements an end-to-end PCB defect detection pipeline using YOLOv8
 - Defect detection inference
 - Streamlit interface for image upload
 
+
 ## Dataset
 
 This project uses the **DeepPCB dataset**, a public dataset for PCB defect detection research.
@@ -22,11 +23,11 @@ The dataset is not included in this repository due to size.
 
 ```python train.py```
 
-##Detection
+## Detection
 
 ```python detect.py```
 
-##Streamlit App
+## Streamlit App
 
 ```streamlit run streamlit_app.py```
 ##Technologies
