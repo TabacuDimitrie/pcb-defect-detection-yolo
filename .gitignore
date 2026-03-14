@@ -1,0 +1,10 @@
+runs/
+data/images/
+data/labels/
+data/raw/
+__pycache__/
+*.pt
+*.pyc
+test.jpg
+test1.jpg
+test2.jpg
